@@ -109,9 +109,9 @@
             this.btnSearch.Location = new System.Drawing.Point(476, 76);
             this.btnSearch.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btnSearch.Name = "btnSearch";
-            this.btnSearch.Size = new System.Drawing.Size(87, 33);
+            this.btnSearch.Size = new System.Drawing.Size(146, 33);
             this.btnSearch.TabIndex = 6;
-            this.btnSearch.Text = "搜索";
+            this.btnSearch.Text = "搜索开发相关的文件";
             this.btnSearch.UseVisualStyleBackColor = true;
             this.btnSearch.Click += new System.EventHandler(this.btnSearch_Click);
             // 
